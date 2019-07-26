@@ -1,3 +1,5 @@
+https://towardsdatascience.com/panoptic-segmentation-with-upsnet-12ecd871b2a3
+
 # UPSNet: A Unified Panoptic Segmentation Network
 
 # Introduction
